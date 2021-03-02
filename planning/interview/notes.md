@@ -41,4 +41,4 @@ He likes to meet new people and to discover new things, especially historical - 
 The most important thing for Fatih is his family.  
 In his free time he likes to walk in parks and gardens and old part of the city and he enjoys a lot walking with his son.
 
-Fatih says that it is not easy to start a new life in another country: waiting for documents to be prepared, learning new language, using English instead of his mothertongue, thinking of the future job. 
+Fatih says that it is not easy to start a new life in another country: waiting for documents to be prepared, learning new language, using English instead of his mothertongue, considering of the future job. 
