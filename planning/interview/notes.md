@@ -1,6 +1,6 @@
 # Fatih's profile
 
-## Interview 2
+## Interview 1
 
 ### Background
 - Fatih has a degree in economics, also studied sociology, HR in a Master's course. Worked as an HR officer in the government.
@@ -18,13 +18,13 @@
 - Interested in web development, social sciences, data science.
 
 ### Problem
-- Finds it difficult to start a new life from the very beginning, but prepares all the documents and studies new language. 
+- Finds it difficult to start a new life from the very beginning, to get used to how things are done here. Documents procedure, completely new language and usage of English which is not his mothertongue. Work experience that is not relevant for Belgium.
 
 ## Interview 2
 ### Following qestions
 
 - What did you exactly do when you were an hr officer? Recruting, interview, examinations. That was a good job and Fatih liked it. "To be the best to find the best"
-- Whom do you see yourself in the future? Do you think you can integrate your past experience into your future occupation? 
+- Whom do you see yourself in the future? Do you think you can integrate your past experience into your future occupation? Hopefully, yes. It will be more clear in the future.
 - What are your goals here in Belgium?
 - Would you like to work in a company or on your own? Which company? In a company, maybe startup, with possibility to develop and grow.
 - What would you like to tell to the world about yourself? What would you like to share? Smile. If you smile, you don't have bad intentions in your heart.
