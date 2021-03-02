@@ -18,15 +18,23 @@
 ### Problem
 - Finds it difficult to start a new life from the very beginning, but prepares all the documents and studies new language. 
 
-### Overview
+### Summary
+Fatih is a man with a background in economics and hr, currently interested in studying web development and data science to find a job in a new country.
+He likes to meet new people and to discover new things, especially historical - by travelling, architecture observation, museums and further reading. He tries to get deeper into what he sees. 
+
+The most important thing for Fatih is well-being of his family, it could be the reason why he changed a country of his living.  
+In his free time he likes to walk in parks and gardens and old part of the city and he enjoys a lot walks with his son.
+
+Fatih now has difficult time to settle in a new country: waiting for documents to be prepared eg diploma and driving lycense, learning new language, thinking of the future job. 
 
 
 ### Following qestions
 
 - What did you exactly do when you were an hr officer?
-- What are your goals here in Belgium?
 - Whom do you see yourself in the future? Do you think you can integrate your past experience into your future occupation?
+- What are your goals here in Belgium?
+- Would you like to work in a company or on your own? Which company?
 - What would you like to tell to the world about yourself? 
 - Whom you would like to tell about yourself? (visitors of the page)
 - What do you think are your strenghts?
-- 
+- What does inspire you?
