@@ -4,7 +4,7 @@
 
 ### Background
 - Fatih has a degree in economics, also studied sociology, HR in a Master's course. Worked as an HR officer in the government.
-- Moved to Belgium with his family 8 months ago, because of political reasons. He is an asylim seeker.
+- He is an asylim seeker who had to leave his country because of political reasons. It was a dangerous path, but now he is in Belgium with his family (8 months). 
 - Fatih is a family man, and enjoys having walks with his son. 
 - Likes to  travel.
 - Favourite locations: parks and gardens, historical places with authentic architecture, especially Roman and Visantium. 
@@ -22,7 +22,7 @@
 
 ## Interview 2
 ### Following qestions
-
+- story of Fatih's dangerous escape from Turkey because of political reasons.
 - What did you exactly do when you were an hr officer? Recruting, interview, examinations. That was a good job and Fatih liked it. "To be the best to find the best"
 - Whom do you see yourself in the future? Do you think you can integrate your past experience into your future occupation? Hopefully, yes. It will be more clear in the future.
 - What are your goals here in Belgium?
