@@ -73,4 +73,6 @@ Fatih says that it is not easy to start a new life in another country: waiting f
 ### How will these people interact with the page
 - Reading information or story (text blocks)
 - Looking at the photo (photogallery)
+- Discovering portfolio/resume
 - People will be ble to contact him back (contacts or/and contact form).
+- Reading blog (maybe)
