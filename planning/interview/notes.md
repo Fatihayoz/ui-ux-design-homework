@@ -22,7 +22,7 @@
 
 ## Interview 2
 ### Following qestions
-- story of Fatih's dangerous escape from Turkey because of political reasons.
+- Story of Fatih's dangerous escape from Turkey because of political reasons. He is a very brave man.
 - What did you exactly do when you were an hr officer? Recruting, interview, examinations. That was a good job and Fatih liked it. "To be the best to find the best"
 - Whom do you see yourself in the future? Do you think you can integrate your past experience into your future occupation? Hopefully, yes. It will be more clear in the future.
 - What are your goals here in Belgium?
@@ -42,3 +42,35 @@ The most important thing for Fatih is his family.
 In his free time he likes to walk in parks and gardens and old part of the city and he enjoys a lot walking with his son.
 
 Fatih says that it is not easy to start a new life in another country: waiting for documents to be prepared, learning new language, using English instead of his mothertongue, considering of the future job. 
+
+## Needs
+- Safe environment for the family and their well-being.
+- Possibility to work to give a good example to his son.
+- Learning language (Dutch).
+- Settlement in the new country.
+- Opportunities to learn new things and new people.
+
+
+## Insights
+
+## Define the Problem
+
+### Why does Fatih need a Home page?
+- To tell his story to the world.
+- To make new acquaintances.
+- To find a job.
+
+### How does Fatih want to be represented?
+- He wants to greet anyone with a smile showing no bad intention.
+- A quick and keen learner interesting for a potential employer.
+- A careful father and family man.
+
+### Who they want to see their page
+- Anyone is welcome
+- like-minded people such as other asylim-seekers who came here with a different background, language learners. 
+- Potential employers from companies (startups).
+
+### How will these people interact with the page
+- Reading information or story (text blocks)
+- Looking at the photo (photogallery)
+- People will be ble to contact him back (contacts or/and contact form).
