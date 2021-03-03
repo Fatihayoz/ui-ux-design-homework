@@ -68,11 +68,11 @@ Fatih says that it is not easy to start a new life in another country: waiting f
 ### Who they want to see his page
 - Anyone is welcome
 - like-minded people such as other asylim-seekers who came here with a different background, language learners. 
-- Potential employers from companies (startups).
+- Potential employers from companies (startups). 
 
 ### How will these people interact with his page
 - Reading information or story (text blocks)
 - Looking at the photo (photogallery)
-- Discovering portfolio/resume
+- Discovering portfolio/resume (portfolio, cv)
 - People will be ble to contact him back (contacts or/and contact form).
 - Reading blog (maybe)
