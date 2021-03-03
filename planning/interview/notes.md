@@ -57,7 +57,7 @@ Fatih says that it is not easy to start a new life in another country: waiting f
 
 ### Why does Fatih need a Home page?
 - To tell his story to the world.
-- To make new acquaintances.
+- To make new acquaintances in the new country.
 - To find a job.
 
 ### How does Fatih want to be represented?
