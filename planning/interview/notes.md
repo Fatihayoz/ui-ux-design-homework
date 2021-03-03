@@ -65,12 +65,12 @@ Fatih says that it is not easy to start a new life in another country: waiting f
 - A quick and keen learner interesting for a potential employer.
 - A careful father and family man.
 
-### Who they want to see their page
+### Who they want to see his page
 - Anyone is welcome
 - like-minded people such as other asylim-seekers who came here with a different background, language learners. 
 - Potential employers from companies (startups).
 
-### How will these people interact with the page
+### How will these people interact with his page
 - Reading information or story (text blocks)
 - Looking at the photo (photogallery)
 - Discovering portfolio/resume
