@@ -23,13 +23,20 @@
 ## Interview 2
 ### Following qestions
 - Story of Fatih's dangerous escape from Turkey because of political reasons. He is a very brave man.
-- What did you exactly do when you were an hr officer? *Recruting, interview, examinations. That was a good job and Fatih liked it. The main principle: "To be the best to find the best".*
-- Whom do you see yourself in the future? Do you think you can integrate your past experience into your future occupation? *Hopefully, yes. It will be more clear in the future.*
-- Would you like to work in a company or on your own? Which company? *In a company, maybe startup, with possibility to develop and grow.*
-- What would you like to tell to the world about yourself? What would you like to share? *A smile. If you smile, you don't have bad intentions in your heart.*
-- Whom you would like to communicate? (visitors of the page) *Greet anyone, find like-minded people who may also be asylim-seekers, language learners who cama with a different background.*
-- What do you think are your strenghts? *Curious, passionate for learning, open to new experience.*
-- What does inspire you? *Learning process of his son: you can express yourself even with a little knowledge {of language}.*
+- What did you exactly do when you were an hr officer?  
+*Recruting, interview, examinations. That was a good job and Fatih liked it. The main principle: "To be the best to find the best".*
+- Whom do you see yourself in the future? Do you think you can integrate your past experience into your future occupation?  
+*Hopefully, yes. It will be more clear in the future.*
+- Would you like to work in a company or on your own? Which company?  
+*In a company, maybe startup, with possibility to develop and grow.*
+- What would you like to tell to the world about yourself? What would you like to share?  
+*A smile. If you smile, you don't have bad intentions in your heart.*
+- Whom you would like to communicate? (visitors of the page)  
+*Greet anyone, find like-minded people who may also be asylim-seekers, language learners who cama with a different background.*
+- What do you think are your strenghts?  
+*Curious, passionate for learning, open to new experience.*
+- What does inspire you?  
+*Learning process of his son: you can express yourself even with a little knowledge {of language}.*
 
 ## Summary
 Fatih is a man with a background in economics and hr, currently interested in studying web development and data science to find a job in a new country. He would prefer to work in a company.
