@@ -49,7 +49,7 @@ He likes to meet new people and to discover new things, especially historical - 
 
 
 ## Insights
-A Home page can help with finding a good job and with making new acquaintances in Belgium. 
+A Home page can help with finding a good job and with making new acquaintances in Belgium. There can also be a blog (or a link on it), so that he could share his tips about Belgium.
 
 ## Define the Problem
 
