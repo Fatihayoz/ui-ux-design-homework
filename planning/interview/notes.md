@@ -65,7 +65,7 @@ A Home page can help with finding a good job and with making new acquaintances i
 
 ### Who they want to see his page
 - Anyone is welcome
-- like-minded people such as other asylim-seekers who came here with a different background, language learners. 
+- Like-minded people such as other asylim-seekers who came here with a different background, language learners. 
 - Potential employers from companies (startups). 
 
 ### How will these people interact with his page
