@@ -33,14 +33,12 @@
 
 ## Summary
 Fatih is a man with a background in economics and hr, currently interested in studying web development and data science to find a job in a new country. He would prefer to work in a company.
-Family is most important for him and a focus point for settlement in Belgium.
 
-He likes to meet new people and to discover new things, especially historical - by travelling, architecture observation, museums and further reading. He is open to new knowledge and tries to get deeper into what he sees. 
+The most important thing for Fatih is his family, it is a focus point for him for settlement in Belgium.  
+Fatih says that it is not easy to start a new life in another country: waiting for documents to be prepared, learning new language, using English instead of his mothertongue, considering of the future job. But he is willing to share his experience with other refugees and asilym seekers who needs support in Belgium. 
 
-The most important thing for Fatih is his family.  
-In his free time he likes to walk in parks and gardens and old part of the city and he enjoys a lot walking with his son.
+He likes to meet new people and to discover new things, especially historical - by travelling, architecture observation, museums and further reading. He is open to new knowledge and tries to get deeper into what he sees. In his free time he likes to walk in parks and gardens and old part of the city and he enjoys a lot walking with his son.
 
-Fatih says that it is not easy to start a new life in another country: waiting for documents to be prepared, learning new language, using English instead of his mothertongue, considering of the future job. 
 
 ## Needs
 - Safe environment for the family and their well-being.
