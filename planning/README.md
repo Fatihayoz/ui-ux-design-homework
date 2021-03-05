@@ -8,8 +8,8 @@
 | Monday    | 13:00 |   Zoom   | First Interview     |
 | Tuesday   | 13:00 |   Zoom   | Follow-Up Interview |
 | Wednesday | 14:00 |   Zoom   | Capture Findings    |
-| Thursday  |       |          |                     |
-| Friday    |       |          |                     |
+| Thursday  | 20.30 |   Zoom   | Wireframe           |
+| Friday    | 13.00 |   Zoom   | Backlog             |
 
 
 ## Communication Channels  
